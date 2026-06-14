@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+Codice/ds/
+Codice/ds2/
+results/Tesi*
+generate_figures.py
+.DS_Store
+Thumbs.db
